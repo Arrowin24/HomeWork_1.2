@@ -65,7 +65,5 @@ public class Main {
                 " рублей. Годовой доход вырос на " + deltaDenisSalary + " рублей");
         System.out.println("Кристина теперь получает " + newKristinaSalaryPerMonth +
                 " рублей. Годовой доход вырос на " + deltaKristinaSalary + " рублей");
-
-
     }
 }
